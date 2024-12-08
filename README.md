@@ -3,10 +3,16 @@ Image Classification with CIFAR-10 and MobileNetV2
 
 This repository contains an AI-driven image classification project that leverages both custom and pre-trained models for real-time predictions. The project is implemented using Python, TensorFlow, and Streamlit, with a user-friendly web app for deployment.
 
-Features
+
+Features:
+
+
 CIFAR-10 Model: A custom-trained Convolutional Neural Network (CNN) for classifying images into 10 categories.
+
 MobileNetV2 Integration: A pre-trained model capable of classifying images into 1,000 categories using ImageNet.
+
 Interactive Web App: A Streamlit-based interface for real-time image uploads and predictions.
+
 Repository Structure
 Image_Classification_using_CIFAR-10_Dataset.ipynb: Notebook detailing model training and evaluation.
 app.py: Streamlit app integrating CIFAR-10 and MobileNetV2 models.
