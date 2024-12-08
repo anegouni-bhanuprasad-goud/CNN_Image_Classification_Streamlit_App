@@ -1,4 +1,6 @@
 Image Classification with CIFAR-10 and MobileNetV2
+
+
 This repository contains an AI-driven image classification project that leverages both custom and pre-trained models for real-time predictions. The project is implemented using Python, TensorFlow, and Streamlit, with a user-friendly web app for deployment.
 
 Features
